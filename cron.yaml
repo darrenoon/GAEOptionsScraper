@@ -1,0 +1,11 @@
+cron:
+- description: "data process"
+  url: /asx
+  schedule: every day 17:00
+  timezone: Australia/NSW
+
+- description: "data process"
+  url: /yho
+  schedule: every day 17:00
+  timezone: Australia/NSW
+

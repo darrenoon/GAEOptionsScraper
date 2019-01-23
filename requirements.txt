@@ -1,0 +1,7 @@
+Flask==1.0.2
+google-cloud-storage==1.13.0
+gunicorn==19.9.0
+bs4
+webapp2
+lxml
+pytz
